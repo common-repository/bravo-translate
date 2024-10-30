@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bravo Translate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-26 23:04+0000\n"
+"PO-Revision-Date: 2021-01-26 23:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: bravo-translate"
+
+#: ajax.php:103
+msgid "1 translation deleted"
+msgstr "1 traducción eliminada"
+
+#: admin.php:48
+msgid "Add Translation"
+msgstr "Añadir traducción"
+
+#. Name of the plugin
+msgid "Bravo Translate"
+msgstr "Bravo Translate"
+
+#: admin.php:79
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin.php:56
+msgid "Do not show again"
+msgstr "No mostrar de nuevo"
+
+#: admin.php:79
+msgid "Edit"
+msgstr "Editar"
+
+#: admin.php:49
+msgid "Edit Translation"
+msgstr "Editar Traducción"
+
+#. Author of the plugin
+msgid "guelben"
+msgstr "guelben"
+
+#. Author URI of the plugin
+msgid "http://www.guelbetech.com"
+msgstr "http://www.guelbetech.com"
+
+#: admin.php:54
+msgid ""
+"If your text is not being translated, inspect your html code and check how "
+"it is actually written."
+msgstr ""
+"Si tu texto no ha sido traducido, inspecciona el código html y comprueba "
+"como está escrito en realidad"
+
+#: admin.php:55
+msgid "Learn more"
+msgstr "Saber más"
+
+#: admin.php:83
+msgid "No translations so far."
+msgstr "No hay traducciones de momento."
+
+#: admin.php:34 admin.php:65
+msgid "Text to translate"
+msgstr "Texto a traducir"
+
+#. Description of the plugin
+msgid ""
+"The simplest solution for translate foreign texts or replace translations "
+"you don't like. Works with texts coming from your plugins, themes, database "
+"or wordpress core. Your translations will be preserved after any update. "
+"Suitable for monolingual websites."
+msgstr ""
+"La solución más sencilla para traducir textos o reemplazar traducciones que "
+"no te gustan. Funciona con textos provenientes de tus plugins, temas, bases "
+"de datos o el nucleo de wordpress. Tus traduciones se conservarán después de "
+"cualquier actualización. Adecuado para sitios web monolingües."
+
+#: admin.php:29
+msgid "The text to be translated must have a minimum length of 2 characters."
+msgstr "Los textos a traducir deben tener una longitud mínima de 2 caracteres."
+
+#: admin.php:35 admin.php:66
+msgid "Your translation"
+msgstr "Tu traducción"

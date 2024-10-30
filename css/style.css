@@ -1,0 +1,19 @@
+.bravoTable{
+    width: 800px;
+    max-width:96%;
+    margin:40px auto;    
+    }
+    .bravoCell{
+       text-align:center; 
+       border-right:1px;
+    }
+    .bravoCellHeader{
+     font-size:16px!important;
+     font-weight:600;   
+    }
+    .BRAVOTRANminiButton{
+      cursor:pointer;  
+    }
+    .BRAVOTRANminiButton a:hover{
+    color:#a00; 
+    }
